@@ -1,3 +1,4 @@
+> Status do projeto: Finalizado! :heavy_check_mark:
 # Instituto KS - Escola de Música
 
 Site institucional moderno para a escola de música **Instituto KS**, desenvolvido com **HTML, CSS e JavaScript**. O projeto oferece uma experiência interativa e responsiva para alunos e visitantes.
